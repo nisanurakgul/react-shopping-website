@@ -2,27 +2,27 @@
 
 Modern React, TypeScript ve CSS Modules kullanılarak geliştirilmiş tam özellikli bir e-ticaret web uygulaması.
 
-## 🚀 Özellikler
+##  Özellikler
 
-### 📱 Kullanıcı Arayüzü
+###  Kullanıcı Arayüzü
 - **Tamamen Responsive Tasarım**: Mobil, tablet ve masaüstü uyumlu
 - **Modern UI/UX**: Temiz ve kullanıcı dostu arayüz
 - **CSS Modules**: Modüler ve sürdürülebilir stil yönetimi
-- **Türkçe Arayüz**: Tamamen Türkçe kullanıcı deneyimi
 
-### 🛍️ E-ticaret Özellikleri
+
+### E-ticaret Özellikleri
 - **Ürün Kategorileri**: Dış Giyim, İç Giyim, Alt Giyim, Üst Giyim
 - **Ürün Arama ve Filtreleme**: Kategori ve anahtar kelime bazlı arama
 - **Sepet Yönetimi**: Ürün ekleme, çıkarma, miktar güncelleme
 - **Stok Takibi**: Gerçek zamanlı stok durumu gösterimi
 - **Fiyat Hesaplama**: Otomatik toplam ve kargo hesaplama
 
-### 🔐 Kullanıcı Yönetimi
+### Kullanıcı Yönetimi
 - **Kayıt ve Giriş**: Formik ve Yup ile form validasyonu
 - **Sosyal Medya Girişi**: Google ve Facebook entegrasyonu (simülasyon)
 - **Oturum Yönetimi**: LocalStorage tabanlı kimlik doğrulama
 
-### 📄 Sayfa Yapısı
+### Sayfa Yapısı
 - **Ana Sayfa**: Hero bölümü, kategoriler, öne çıkan ürünler
 - **Ürünler Sayfası**: Filtreleme, arama, kategori seçimi
 - **Sepet Sayfası**: Ürün listesi, miktar kontrolü, ödeme özeti
@@ -30,7 +30,7 @@ Modern React, TypeScript ve CSS Modules kullanılarak geliştirilmiş tam özell
 - **İletişim**: İletişim formu, harita, iletişim bilgileri
 - **Giriş/Kayıt**: Kullanıcı kimlik doğrulama sayfaları
 
-## 🛠️ Teknolojiler
+##  Teknolojiler
 
 ### Frontend
 - **React 18**: Modern React hooks ve functional components
@@ -51,7 +51,7 @@ Modern React, TypeScript ve CSS Modules kullanılarak geliştirilmiş tam özell
 - **ESLint**: Kod kalitesi ve standartları
 - **Prettier**: Kod formatlaması
 
-## 📦 Kurulum
+## Kurulum
 
 ### Gereksinimler
 - Node.js (v16 veya üzeri)
@@ -80,7 +80,7 @@ npm start
 http://localhost:3000
 ```
 
-## 🏗️ Proje Yapısı
+##  Proje Yapısı
 
 ```
 src/
@@ -108,7 +108,7 @@ src/
 └── App.tsx             # Ana uygulama bileşeni
 ```
 
-## 🎨 CSS Modules Kullanımı
+## CSS Modules Kullanımı
 
 Bu proje CSS Modules kullanarak modüler stil yönetimi sağlar:
 
@@ -130,7 +130,7 @@ function MyComponent() {
 - **Sürdürülebilirlik**: Kolay bakım ve güncelleme
 - **Performans**: Sadece kullanılan stiller yüklenir
 
-## 🔧 Özelleştirme
+## Özelleştirme
 
 ### Renk Paleti Değiştirme
 Ana renkleri değiştirmek için CSS değişkenlerini güncelleyin:
@@ -154,7 +154,7 @@ Ana renkleri değiştirmek için CSS değişkenlerini güncelleyin:
 2. CSS Modules dosyası ekleyin
 3. Gerekli sayfalarda import edin
 
-## 📱 Responsive Tasarım
+## Responsive Tasarım
 
 Proje mobile-first yaklaşımı ile geliştirilmiştir:
 
@@ -162,7 +162,7 @@ Proje mobile-first yaklaşımı ile geliştirilmiştir:
 - **Tablet**: 768px - 1024px
 - **Desktop**: 1024px+
 
-## 🧪 Test
+## Test
 
 ```bash
 # Test çalıştırma
@@ -172,7 +172,7 @@ npm test
 npm test -- --coverage
 ```
 
-## 📦 Build
+## Build
 
 ```bash
 # Production build
@@ -182,7 +182,7 @@ npm run build
 npm run analyze
 ```
 
-## 🚀 Deployment
+## Deployment
 
 ### Netlify
 1. Netlify hesabı oluşturun
@@ -195,7 +195,7 @@ npm run analyze
 2. GitHub repository'nizi import edin
 3. Otomatik deployment
 
-## 🤝 Katkıda Bulunma
+## Katkıda Bulunma
 
 1. Fork yapın
 2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
@@ -203,11 +203,11 @@ npm run analyze
 4. Push yapın (`git push origin feature/amazing-feature`)
 5. Pull Request oluşturun
 
-## 📄 Lisans
+## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır.
 
-## 👥 Geliştirici
+## Geliştirici
 
 **ModaStore E-ticaret Uygulaması**
 - Modern React ve TypeScript ile geliştirilmiş
@@ -217,4 +217,4 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ---
 
-**Not**: Bu proje demo amaçlı geliştirilmiştir. Gerçek e-ticaret uygulaması için backend API entegrasyonu gereklidir.
+
